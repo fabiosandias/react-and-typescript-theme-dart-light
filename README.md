@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Foi criado com React, Typescript e styled components um sistema de mudança de cor de tempo com react-switch. Ao clicar no toggle mudamos de cor do sistema.
 
 ## Available Scripts
 
